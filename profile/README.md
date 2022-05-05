@@ -18,4 +18,4 @@ If you are interested in having OARC do custom tool development work, please con
 
 # Support
 
-If you are looking for support of existing OARC tools, we have a Mattermost channel for general support for all software at [OARC Software](https://chat.dns-oarc.net/community/channels/oarc-software) and many of these also have mailing lists, and we recommend you post questions or requests for help on these in the first instance. For specific bug reports, we recommend raising these as issues on the projects.
+If you are looking for support of existing OARC tools, we have a Mattermost channel for general support for all software at [OARC Software](https://chat.dns-oarc.net/community/channels/oarc-software) and many of these also have [mailing lists](https://lists.dns-oarc.net/mailman/listinfo), and we recommend you post questions or requests for help on these in the first instance. For specific bug reports, we recommend raising these as issues on the projects.
