@@ -1,5 +1,9 @@
 ![DNS-OARC](/logo.png)
 
+# !NOTE!
+
+Repositories are being migrated to [Codeberg](https://codeberg.org/DNS-OARC), please update your bookmarks and git remotes!
+
 # Software Development
 
 A key part of [DNS-OARC's](https://www.dns-oarc.net) mission is to develop, maintain and host various software tools for DNS data collection, measurement and analysis. You can find a list of these tools below, with their source code and development management here on Github.
