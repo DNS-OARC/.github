@@ -2,7 +2,7 @@
 
 # !NOTE!
 
-**Repositories have been being migrated to [Codeberg](https://codeberg.org/DNS-OARC), see repository descriptions. Please update your bookmarks and git remotes!**
+**Repositories have been migrated to [Codeberg](https://codeberg.org/DNS-OARC), see repository descriptions. Please update your bookmarks and git remotes!**
 
 # Software Development
 
